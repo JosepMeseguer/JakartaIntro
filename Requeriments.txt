@@ -1,1 +1,2 @@
 Jakarta JDK21
+GlassFish 10.1
